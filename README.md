@@ -63,7 +63,7 @@ Once your PR is approved, it will be merged into the main repository.
 ## Final version of the project
 
 <!--- Place the link to the Figma file inside () --->
-Click [here](example.com) for the UI design and prototype of the project.
+Click [here](https://www.figma.com/file/HRAxLh7LUXvFwDYZCaRf7H/Cybersec?type=design&node-id=0-1&mode=design&t=KYTiXyLrb9LlJSW9-0) for the UI design and prototype of the project.
 
 <hr>
 
