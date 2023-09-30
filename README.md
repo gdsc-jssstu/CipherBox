@@ -45,7 +45,7 @@ CipherBox is an open-source web application designed to empower users with the a
 
 - ### Create a Pull Request (PR)
 
-Visit the [CiphorBox](https://github.com/gdsc-jssstu/CipherBox) repository on GitHub.
+Visit the [CipherBox](https://github.com/gdsc-jssstu/CipherBox) repository on GitHub.
 Click the "Compare & pull request" button next to your recently pushed branch.
 Follow the PR template and guidelines. Provide details about your changes.
 Submit the PR.
