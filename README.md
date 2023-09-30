@@ -1,7 +1,6 @@
 # CipherBox
------------
 CipherBox is an open-source web application designed to empower users with the ability to encrypt and decrypt strings using state-of-the-art cryptographic techniques. With an intuitive user interface, our application ensures data security and privacy by enabling users to safeguard their sensitive information effortlessly. Join us in advancing data security in the digital realm and contribute to this project.
-<hr>
+
 
 ## Project Structure
 ```
@@ -26,6 +25,7 @@ CipherBox is an open-source web application designed to empower users with the a
 #### Before contributing, please review the [CONTRIBUTING GUIDELINES](./CONTRIBUTING.md).
 #### Our Code of Conduct:   [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 <hr>
+
 ## Project setup instructions:
 - **Fork the repository** to your GitHub account by clicking the "Fork" button at the top-right corner of this page. This will create a copy of the repository under your account.
 - **Clone your forked repository** to your local machine using Git. Replace `your-username` with your GitHub username:
@@ -66,7 +66,11 @@ Once your PR is approved, it will be merged into the main repository.
 Click [here](example.com) for the UI design and prototype of the project.
 
 <hr>
+
 ## Intended final project:
+In its intended final version, **CipherBox** aspires to become a robust and versatile string encryption web application, offering users a secure and user-friendly experience. Here are the key features and goals we envision:
+-  **Comprehensive Cryptographic Suite**: CipherBox will offer a comprehensive suite of cryptographic algorithms, including industry-standard ciphers like AES, RSA, MD5, SHA-256 and DES, providing users with a wide range of encryption options to meet various security requirements.
+-  **User-Friendly Interface**: Our goal is to provide an intuitive and user-friendly interface, making it easy for both beginners and experts to use CipherBox effectively. We aim to ensure that users can encrypt and decrypt strings with minimal effort.
 
 
 
@@ -74,7 +78,7 @@ Click [here](example.com) for the UI design and prototype of the project.
 
 ## Thank You
 
-Thank you for contributing to CiphorBox! Your contributions help make this project better for everyone.
+Thank you for contributing to **CiphorBox**! Your contributions help make this project better for everyone.
 If you have any questions or need further assistance, please don't hesitate to reach out to us.
 
 <hr>
