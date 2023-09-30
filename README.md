@@ -22,8 +22,8 @@ CipherBox is an open-source web application designed to empower users with the a
 - **app.js**: imports each function from the respective JavaScript file.
    
 <hr>
-#### Before contributing look into [CONTRIBUTING GUIDELINES](https://github.com/gdsc-jssstu/CipherBox/blob/main/CODE_OF_CONDUCT.md)
-#### Our Code of Conduct:   [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
+Before contributing look into [CONTRIBUTING GUIDELINES](https://github.com/gdsc-jssstu/CipherBox/blob/main/CODE_OF_CONDUCT.md)
+Our Code of Conduct:   []()
 <hr>
 
 ## Project setup instructions:
@@ -57,5 +57,24 @@ Submit the PR.
 
 The maintainers will review your PR and may request changes or provide feedback.
 Once your PR is approved, it will be merged into the main repository.
+
+<hr>
+
+## Final version of the project
+
+<!--- Place the link to the Figma file inside () --->
+Click [here](example.com) for the UI design and prototype of the project.
+
+<hr>
+## Intended final project:
+
+
+
+ <hr>
+
+## Thank You
+
+Thank you for contributing to CiphorBox! Your contributions help make this project better for everyone.
+If you have any questions or need further assistance, please don't hesitate to reach out to us.
 
 <hr>
