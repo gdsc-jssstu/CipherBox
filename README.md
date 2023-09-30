@@ -18,3 +18,41 @@ CipherBox is an open-source web application designed to empower users with the a
   - index.html        # Main HTML file for your web application
 - LICENSE             # License file (e.g., MIT License)
 ```
+<hr>
+#### Before contributing look into [CONTRIBUTING GUIDELINES](./CONTRIBUTING.md)
+#### Our Code of Conduct:   [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
+<hr>
+
+## Project setup instructions:
+- **Fork the repository** to your GitHub account by clicking the "Fork" button at the top-right corner of this page. This will create a copy of the repository under your account.
+- **Clone your forked repository** to your local machine using Git. Replace `your-username` with your GitHub username:
+
+   ```
+   git clone https://github.com/your-username/CipherBox.git
+   cd CipherBox
+   ```
+- **Create a new branch** for your contribution. Replace *'feature/your-feature-name'* with a descriptive branch name related to your contribution.
+- Commit your changes with a descriptive commit message:
+  ```
+  git commit -m "Add your descriptive message here"
+  ```
+  - Push your changes to your forked repository on GitHub:
+  ```
+  git push origin feature/your-feature-name
+  ```
+  <hr>
+  ## Getting started with contributions
+
+- ### Create a Pull Request (PR)
+
+Visit the [CiphorBox](https://github.com/gdsc-jssstu/CipherBox) repository on GitHub.
+Click the "Compare & pull request" button next to your recently pushed branch.
+Follow the PR template and guidelines. Provide details about your changes.
+Submit the PR.
+
+- ### Review and Merge
+
+The maintainers will review your PR and may request changes or provide feedback.
+Once your PR is approved, it will be merged into the main repository.
+
+<hr>
