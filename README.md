@@ -17,7 +17,7 @@ CipherBox is an open-source web application designed to empower users with the a
   - index.html        # Main HTML file for the web application
 - LICENSE             # License file 
 ```
-- **crypto**: Contains JavaScript files for each algorithm. Each file must contain a function for Encryption and Decryption each. For eg. aes.js conatins aesEncrypt, aesDecrypt. Make 'n' number of files, The more the merrier :wink:
+- **crypto**: Contains JavaScript files for each algorithm. Each file must contain a function for Encryption and Decryption each. For eg. aes.js conatins aesEncrypt, aesDecrypt. Make 'n' number of files, The more the merrier :wink:. Refer the files for standard logic.
 - **app.js**: imports each function from the respective JavaScript file.
 
 <hr>
