@@ -1,4 +1,4 @@
-# Welcome to Student Study Manager contributing guide <!-- omit in toc -->
+# Welcome to CipherBox contributing guide <!-- omit in toc -->
 
 Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [CipherBox](https://github.com/gdsc-jssstu/CipherBox) 🎇✨
 
@@ -30,6 +30,6 @@ Maintianer will review your PR and if it meets the requirements, it will be merg
 
 Congratulations 🎉🎉 The GDSC JSSSTU team thanks you ✨✨
 
-Once your PR is merged, your contributions will be publicly visible on the [Student Study Manager](https://github.com/gdsc-jssstu/student_study_manager)
+Once your PR is merged, your contributions will be publicly visible on the [CipherBox](https://github.com/gdsc-jssstu/CipherBox)
 
 Now that you are part of the GDSC JSSSTU community, see how else you can contribute to the [community reopsitories](https://github.com/orgs/gdsc-jssstu/repositories)
