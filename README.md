@@ -21,6 +21,8 @@ CipherBox is an open-source web application designed to empower users with the a
 - **crypto**: Contains JavaScript files for each algorithm. Each file must contain a function for Encryption and Decryption each. For eg. aes.js conatins aesEncrypt, aesDecrypt. Make 'n' number of files, The more the merrier :wink:
 - **app.js**: imports each function from the respective JavaScript file.
   <br>
+#### BEfore contributing, please review the [CONTRIBUTING GUIDELINES](./CONTRIBUTING.md).
+#### Our Code of Conduct:   [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 ## Project setup instructions:
 - **Fork the repository** to your GitHub account by clicking the "Fork" button at the top-right corner of this page. This will create a copy of the repository under your account.
 - **Clone your forked repository** to your local machine using Git. Replace `your-username` with your GitHub username:
@@ -39,7 +41,7 @@ CipherBox is an open-source web application designed to empower users with the a
   git push origin feature/your-feature-name
   ```
   <hr>
-  ## Getting started with contributions
+## Getting started with contributions
 
 - ### Create a Pull Request (PR)
 
