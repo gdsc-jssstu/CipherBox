@@ -1,6 +1,6 @@
 # Welcome to Student Study Manager contributing guide <!-- omit in toc -->
 
-Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [Student Study Manager](https://github.com/gdsc-jssstu/CipherBox) 🎇✨
+Thank you for investing your time in contributing to our project! Any contribution you make will be reflected on [CipherBox](https://github.com/gdsc-jssstu/CipherBox) 🎇✨
 
 Read our [Code of Conduct](./CODE_OF_CONDUCT.md) to keep our community approachable and respectable.
 
