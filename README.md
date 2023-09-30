@@ -26,6 +26,9 @@ CipherBox is an open-source web application designed to empower users with the a
 #### Our Code of Conduct:   [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 <hr>
 
+## Resources:
+- [**CryptoJS Documentation**](https://cryptojs.gitbook.io/docs/#documentation)
+
 ## Project setup instructions:
 - **Fork the repository** to your GitHub account by clicking the "Fork" button at the top-right corner of this page. This will create a copy of the repository under your account.
 - **Clone your forked repository** to your local machine using Git. Replace `your-username` with your GitHub username:
