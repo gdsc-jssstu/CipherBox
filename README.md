@@ -28,6 +28,7 @@ CipherBox is an open-source web application designed to empower users with the a
 
 ## Resources:
 - [**CryptoJS Documentation**](https://cryptojs.gitbook.io/docs/#documentation)
+- [Git Tutorial for Beginners](https://www.youtube.com/watch?v=DVRQoVRzMIY)
 
 ## Project setup instructions:
 - **Fork the repository** to your GitHub account by clicking the "Fork" button at the top-right corner of this page. This will create a copy of the repository under your account.
