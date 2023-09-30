@@ -15,9 +15,12 @@ CipherBox is an open-source web application designed to empower users with the a
   - rsa.js            # Example: RSA encryption module
 - README.md           # Project documentation
 - /public
-  - index.html        # Main HTML file for your web application
-- LICENSE             # License file (e.g., MIT License)
+  - index.html        # Main HTML file for the web application
+- LICENSE             # License file 
 ```
+- **crypto**: Contains JavaScript files for each algorithm. Each file must contain a function for Encryption and Decryption each. For eg. aes.js conatins aesEncrypt, aesDecrypt.
+- **app.js**: imports each function from the respective JavaScript file.
+   
 <hr>
 #### Before contributing look into [CONTRIBUTING GUIDELINES](./CONTRIBUTING.md)
 #### Our Code of Conduct:   [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
