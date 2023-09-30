@@ -6,14 +6,15 @@ CipherBox is an open-source web application designed to empower users with the a
 ## Project Structure
 ```
 - /css
-  - styles.css        # CSS styles for your application
+  - styles.css        # CSS styles for the application
 - /js
-  - app.js            # JavaScript logic for your application
-- /images             # Image assets (if any)
-- /docs
-  - README.md         # Project documentation
+  - app.js            # JavaScript logic for the application
+- /images             # Image assets 
+- /crypto             # Folder for cryptographic algorithm modules
+  - aes.js            # Example: AES encryption module
+  - rsa.js            # Example: RSA encryption module
+- README.md           # Project documentation
 - /public
   - index.html        # Main HTML file for your web application
-- /tests              # Test files and test suites (optional)
 - LICENSE             # License file (e.g., MIT License)
 ```
