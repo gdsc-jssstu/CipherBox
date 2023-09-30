@@ -22,7 +22,7 @@ CipherBox is an open-source web application designed to empower users with the a
 - **app.js**: imports each function from the respective JavaScript file.
    
 <hr>
-#### Before contributing look into [CONTRIBUTING GUIDELINES](./CONTRIBUTING.md)
+#### Before contributing look into [CONTRIBUTING GUIDELINES]([./CONTRIBUTING.md](https://github.com/gdsc-jssstu/CipherBox/blob/main/CODE_OF_CONDUCT.md))
 #### Our Code of Conduct:   [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 <hr>
 
