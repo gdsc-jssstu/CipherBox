@@ -89,3 +89,7 @@ Thank you for contributing to **CiphorBox**! Your contributions help make this p
 If you have any questions or need further assistance, please don't hesitate to reach out to us.
 
 <hr>
+
+### Maintainers
+Any Doubts? Feel free to contact us.
+- [Tushar Singh](https://github.com/theinit01)
