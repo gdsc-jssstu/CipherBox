@@ -23,11 +23,22 @@
     margin: 0%;
     font-size: var(--med2);
 }
-
-main {
-    padding: 10%;
+.container{
+    width: 100%;
+    padding: 5% 0% 5% 0%;
+    display: flex;
     background-color: var(--blue);
+    justify-content: center;
+    align-items: center;
+    gap: 10%;
+}
+main {
+    /* padding: 10%; */
     color: var(--white);
+}
+
+main section{
+    padding: 5% 0% 5% 0%;
 }
 
 main h1 {
@@ -40,9 +51,10 @@ main p {
 }
 
 input {
-    padding:1%;
+    padding:1.5%;
     border-radius: var(--border-radius);
     border-width: 0cm;
+    width: 98%;
 
 }
 input::placeholder{
@@ -51,7 +63,11 @@ input::placeholder{
 }
 
 button{
-    padding:1%;
+    padding:1.5%;
     border-radius: var(--border-radius);
     background-color: var(--purple);
+    width: 100%;
+    font-size: var(--med1);
+    margin: 5% 0% 0% 0%;
 }
+
