@@ -1,0 +1,88 @@
+body {
+    background: linear-gradient(45deg, #4d39e0, #0cf);
+    font-family: "Arial", sans-serif;
+    color: #fff;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    animation: fadeInUp 1s ease-in-out;
+  }
+
+  p {
+    font-size: 1.2em;
+    margin-bottom: 30px;
+    animation: fadeInUp 1.5s ease-in-out;
+  }
+
+  button {
+    background-color: #ff8c00;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    animation: fadeInUp 2s ease-in-out;
+  }
+
+  button:hover {
+    background-color: #e57300;
+  }
+
+  @keyframes fadeInUp {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .input-field {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 1em;
+}
+
+textarea.input-field {
+    resize: none;
+    overflow: auto;
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+#encryptButton, #decryptButton {
+    background-color: #ff8c00;
+    color: #fff;
+    font-size: 1em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    animation: fadeInUp 2s ease-in-out;
+}
+
+#encryptButton:hover, #decryptButton:hover {
+    background-color: #e57300;
+}

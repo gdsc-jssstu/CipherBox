@@ -1,33 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <title>CipherBox - Secure String Encryption</title>
-</head>
-<body>
-    <header>
-        <h1>CipherBox</h1>
-        <p>Secure String Encryption</p>
-    </header>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CipherBox</title>
+    <link rel="stylesheet" href="../css/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>CipherBox</h1>
+      <p>CipherBox is an open-source web application...</p>
 
-    <main>
-        <section id="encryption">
-            <h2>Encrypt a String</h2>
-            <input type="text" id="inputString" placeholder="Enter a string">
-            <button id="encryptButton">Encrypt</button>
-            <p id="encryptedResult"></p>
-        </section>
+      <div class="form-group">
+        <label for="inputText">Input Text:</label>
+        <input type="text" id="inputText" class="input-field" />
+      </div>
 
-        <section id="decryption">
-            <h2>Decrypt a String</h2>
-            <input type="text" id="encryptedString" placeholder="Enter an encrypted string">
-            <button id="decryptButton">Decrypt</button>
-            <p id="decryptedResult"></p>
-        </section>
-    </main>
+      <div class="form-group">
+        <label for="secretKey">Secret Key:</label>
+        <input type="text" id="secretKey" class="input-field" />
+      </div>
 
-    <script src="app.js"></script>
-</body>
+      <div class="form-group">
+        <label for="algorithm">Select Algorithm:</label>
+        <select id="algorithm" class="input-field">
+          <option value="AES">AES</option>
+          <option value="RSA">RSA</option>
+          <option value="RSA">MD5</option>
+          <option value="RSA">SHA-256</option>
+          <option value="RSA">DES</option>
+          <!-- Add more algorithm options as needed -->
+        </select>
+      </div>
+
+      <div class="form-group">
+        <label for="outputText">Output Text:</label>
+        <textarea
+          id="outputText"
+          class="input-field"
+          rows="4"
+          readonly
+        ></textarea>
+      </div>
+
+      <button id="encryptButton">Encrypt</button>
+      <button id="decryptButton">Decrypt</button>
+    </div>
+  </body>
 </html>
