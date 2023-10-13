@@ -1,0 +1,19 @@
+:root{
+    --blue : #4285F4;
+    --white: rgb(255, 255, 255);
+    --purple: rgb(99, 23, 176);
+    --text:#565360;
+    --label:#908E9B;
+    --disabled : #e1dfe9;
+    --xxs:0.25rem;
+    --xs:0.5rem;
+    --sm:0.75rem;
+    --med1:1rem;
+    --med2:1.25rem;
+    --med3:1.5rem;
+    --l:2rem;
+    --xl:3rem;
+    --xxl:4rem;
+}
+
+
