@@ -3,30 +3,44 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="../css/styles.css">
+    <!--importing poppins font family from the google fonts 😄 ✒️-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Nunito:wght@300&family=Poppins:wght@200;300;400;500;600;700&family=Roboto&display=swap" rel="stylesheet">
+
     <title>CipherBox - Secure String Encryption</title>
 </head>
 <body>
-    <header>
+    <!-- <header>
         <h1>CipherBox</h1>
         <p>Secure String Encryption</p>
-    </header>
+    </header> -->
 
-    <main>
-        <section id="encryption">
-            <h2>Encrypt a String</h2>
-            <input type="text" id="inputString" placeholder="Enter a string">
-            <button id="encryptButton">Encrypt</button>
-            <p id="encryptedResult"></p>
+    <div class="container">
+        <main>
+            <h1>CipherBox</h1>
+            <p>Secure String Encryption</p>
+            <section id="encryption">
+                <p>Encrypt a String</p>
+                <input type="text" id="inputString" placeholder="Enter a string">
+                <br>
+                <button id="encryptButton">Encrypt</button>
+                <p id="encryptedResult"></p>
+            </section>
+    
+            <section id="decryption">
+                <p>Decrypt a String</p>
+                <input type="text" id="encryptedString" placeholder="Enter an encrypted string">
+                <br>
+                <button id="decryptButton">Decrypt</button>
+                <p id="decryptedResult"></p>
+            </section>
+        </main>
+        <section>
+            <img src="../assets/1430399_6777-removebg-preview.png" alt="">
         </section>
-
-        <section id="decryption">
-            <h2>Decrypt a String</h2>
-            <input type="text" id="encryptedString" placeholder="Enter an encrypted string">
-            <button id="decryptButton">Decrypt</button>
-            <p id="decryptedResult"></p>
-        </section>
-    </main>
+    </div>
 
     <script src="app.js"></script>
 </body>
