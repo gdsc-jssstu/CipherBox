@@ -42,6 +42,10 @@ main section{
     padding: 5% 0% 5% 0%;
 }
 
+main section p {
+    font-size: var(--sm);
+}
+
 main h1 {
     font-size: var(--xxl);
 }
@@ -56,6 +60,9 @@ input {
     border-radius: var(--border-radius);
     border-width: 0cm;
     width: 98%;
+    font-size: var(--med1);
+    outline: 0px;
+    color: var(--label);
 
 }
 input::placeholder{
