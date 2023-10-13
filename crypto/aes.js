@@ -1,20 +1,23 @@
-// Import any necessary libraries for AES encryption (e.g., crypto-js)
+const crypto = require('crypto');
 
+// Your secret key for encryption
+const secretKey = 'YourSecretKeyHere';
 
-// Example function for AES encryption
-function aesEncrypt(inputString) {
-    // Implement AES encryption logic here
-    // Example: const encrypted = CryptoJS.AES.encrypt(inputString, secretKey).toString();
-    
-    return 'Encrypted: ' + inputString; // Replace with actual encrypted result
+// Encryption function
+function aesEncrypt(text, secretKey) {
+  const cipher = crypto.createCipher('aes-256-cbc', secretKey);
+  let encrypted = cipher.update(text, 'utf8', 'hex');
+  encrypted += cipher.final('hex');
+  return 'Encrypted: ' + encrypted;
 }
 
-// Example function for AES decryption
-function aesDecrypt(encryptedString) {
-    // Implement AES decryption logic here
-    
-    return 'Decrypted: ' + encryptedString; // Replace with actual decrypted result
+// Decryption function
+function aesDecrypt(encryptedText, secretKey) {
+  const decipher = crypto.createDecipher('aes-256-cbc', secretKey);
+  let decrypted = decipher.update(encryptedText, 'hex', 'utf8');
+  decrypted += decipher.final('utf8');
+  return 'Decrypted: ' + decrypted;
 }
 
-// Export the functions
+
 export { aesEncrypt, aesDecrypt };
