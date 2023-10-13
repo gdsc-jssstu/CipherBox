@@ -25,6 +25,7 @@ CipherBox is an open-source web application designed to empower users with the a
 
 #### Before contributing, please review the [CONTRIBUTING GUIDELINES](./CONTRIBUTING.md).
 #### Our Code of Conduct:   [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
+#### Don't forget to register for [Hacktoberfest](https://hacktoberfest.com/) to get your rewards.
 <hr>
 
 ## Resources:
