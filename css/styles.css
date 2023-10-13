@@ -1,19 +1,57 @@
-:root{
-    --blue : #4285F4;
+:root {
+    --blue: #4285f4;
     --white: rgb(255, 255, 255);
-    --purple: rgb(99, 23, 176);
-    --text:#565360;
-    --label:#908E9B;
-    --disabled : #e1dfe9;
-    --xxs:0.25rem;
-    --xs:0.5rem;
-    --sm:0.75rem;
-    --med1:1rem;
-    --med2:1.25rem;
-    --med3:1.5rem;
-    --l:2rem;
-    --xl:3rem;
-    --xxl:4rem;
+    --purple: rgb(158, 92, 224);
+    --text: #565360;
+    --label: #908e9b;
+    --disabled: #e1dfe9;
+    --xxs: 0.25rem;
+    --xs: 0.5rem;
+    --sm: 0.75rem;
+    --med1: 1rem;
+    --med2: 1.25rem;
+    --med3: 1.5rem;
+    --l: 2rem;
+    --xl: 3rem;
+    --xxl: 4rem;
+    --font: "Poppins", sans-serif;
+    --border-radius:5px;
 }
 
+* {
+    font-family: var(--font);
+    margin: 0%;
+    font-size: var(--med2);
+}
 
+main {
+    padding: 10%;
+    background-color: var(--blue);
+    color: var(--white);
+}
+
+main h1 {
+    font-size: var(--xxl);
+}
+
+main p {
+    padding: 2% 2% 2% 0%;
+    font-size: var(--med1);
+}
+
+input {
+    padding:1%;
+    border-radius: var(--border-radius);
+    border-width: 0cm;
+
+}
+input::placeholder{
+    color:var(--disabled);
+    font-size: var(--med1);
+}
+
+button{
+    padding:1%;
+    border-radius: var(--border-radius);
+    background-color: var(--purple);
+}
