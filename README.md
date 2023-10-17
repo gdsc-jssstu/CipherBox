@@ -91,6 +91,26 @@ If you have any questions or need further assistance, please don't hesitate to r
 
 <hr>
 
+## Contributors
+A big thank you to all the contributors who have helped improve and develop CipherBox. Your contributions are highly appreciated.
+
+<div style="display: flex; flex-wrap: wrap;">
+    <a href="https://github.com/RajaVardhan-coder">
+      <img src="https://avatars.githubusercontent.com/u/69043917?v=4" alt="Raja Vardhan" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      <p style="text-align: center;">Raja Vardhan</p>
+    </a>
+    <a href="https://github.com/MAD-vindi">
+      <img src="https://avatars.githubusercontent.com/u/77069497?v=4" alt="Vinay Kumar S G" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      <p style="text-align: center;">Vinay Kumar S G</p>
+    </a>
+    <a href="https://github.com/sumitanandjha">
+      <img src="https://avatars.githubusercontent.com/u/125876713?v=4" alt="Sumit Anand Jha" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;">
+      <p style="text-align: center;">Sumit Anand Jha</p>
+    </a>
+</div>
+
+<hr>
+
 ### Maintainers
 Any Doubts? Feel free to contact us.
 - [Tushar Singh](https://github.com/theinit01)
