@@ -77,7 +77,7 @@ Click [here](https://www.figma.com/file/HRAxLh7LUXvFwDYZCaRf7H/Cybersec?type=des
 
 ## Intended final project:
 In its intended final version, **CipherBox** aspires to become a robust and versatile string encryption web application, offering users a secure and user-friendly experience. Here are the key features and goals we envision:
--  **Comprehensive Cryptographic Suite**: CipherBox will offer a comprehensive suite of cryptographic algorithms, including industry-standard ciphers like AES, RSA, MD5, SHA-256 and DES, providing users with a wide range of encryption options to meet various security requirements.
+-  **Comprehensive Cryptographic Suite**: CipherBox will offer a comprehensive suite of cryptographic algorithms, including industry-standard ciphers like AES, RSA, SHA-256 and DES, providing users with a wide range of encryption options to meet various security requirements.
 -  **User-Friendly Interface**: Our goal is to provide an intuitive and user-friendly interface, making it easy for both beginners and experts to use CipherBox effectively. We aim to ensure that users can encrypt and decrypt strings with minimal effort.
 
 
