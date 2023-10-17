@@ -94,26 +94,9 @@ If you have any questions or need further assistance, please don't hesitate to r
 ## Contributors
 A big thank you to all the contributors who have helped improve and develop CipherBox. Your contributions are highly appreciated.
 
-<center>
-  <table style="width:50%">
-    <tr>
-      <th>Contributor</th>
-      <th>Image</th> 
-    </tr>
-    <tr>
-      <td style="text-align: center;"><a href="https://github.com/RajaVardhan-coder">Raja Vardhan</a></td>
-      <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/u/69043917?v=4" alt="Raja Vardhan" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;"><a href="https://github.com/MAD-vindi">Vinay Kumar S G</a></td>
-      <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/u/77069497?v=4" alt="Vinay Kumar S G" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"></td>
-    </tr>
-    <tr>
-      <td style="text-align: center;"><a href="https://github.com/sumitanandjha">Sumit Anand Jha</a></td>
-      <td style="text-align: center;"><img src="https://avatars.githubusercontent.com/u/125876713?v=4" alt="Sumit Anand Jha" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%;"></td>
-    </tr>
-  </table>
-</center>
+<a href="https://github.com/gdsc-jssstu/CipherBox/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gdsc-jssstu/CipherBox" />
+</a>
 
 <hr>
 
