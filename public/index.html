@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,39 +9,14 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Lekton&family=Major+Mono+Display&display=swap"
         rel="stylesheet">
-
-
     <title>CipherBox - Secure String Encryption</title>
 </head>
-
-
 <body>
     <header>
         <h1>CipherBox</h1>
-        <!-- <p>Secure String Encryption</p> -->
     </header>
-
-
     <div class="container">
         <main>
-            <!-- <section id="encryption">
-                <p>Encrypt a String</p>
-                <input type="text" id="inputString" placeholder="Enter a string">
-                <br>
-                <button id="encryptButton">Encrypt</button>
-                <p id="encryptedResult"></p>
-            </section>
-
-
-            <section id="decryption">
-                <p>Decrypt a String</p>
-                <input type="text" id="encryptedString" placeholder="Enter an encrypted string">
-                <br>
-                <button id="decryptButton">Decrypt</button>
-                <p id="decryptedResult"></p>
-            </section> -->
-
-
             <form action="">
                 <textarea name="" id="input" cols="30" rows="10" placeholder="Enter Your text here. . ."></textarea>
                 <Select name="" aria-placeholder="" >
@@ -54,17 +27,15 @@
                     <option value="SHA-256">SHA-256</option>
                     <option value="DES">DES</option>
                 </Select>
-                <button class="one" type="submit">Encrypt</button>
-                <button class="two" type="submit">Decrypt</button>
-                <label for="output">Encrypted or Decrypted text:-</label>
-                <textarea name="output" id="output" cols="30" rows="10" ></textarea>
+                <button id="encryptButton" class="one"> <img src="../assets/lock.png" alt="image"> Encrypt</button>
+                <button id="decryptButton" class="two" ><img src="../assets/Vector.png" alt="image">Decrypt</button>
             </form>
-
-
+            <div class="output">
+                <div class="label">Encrypted or Decrypted text:-  <button><img src="../assets/maximize-2.png" alt=""></button></div>
+                <p></p>
+            </div>
         </main>
     </div>
-
-
     <script src="app.js"></script>
 </body>
 
