@@ -94,9 +94,10 @@ If you have any questions or need further assistance, please don't hesitate to r
 ## Contributors
 A big thank you to all the contributors who have helped improve and develop CipherBox. Your contributions are highly appreciated.
 
-<a href="https://github.com/gdsc-jssstu/CipherBox/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=gdsc-jssstu/CipherBox" />
+<a href="https://github.com/gdsc-jssstu/cipherbox/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=gdsc-jssstu/cipherbox" />
 </a>
+
 
 <hr>
 
