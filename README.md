@@ -8,7 +8,7 @@ CipherBox is an open-source web application designed to empower users with the a
   - styles.css        # CSS styles for the application
 - /js
   - app.js            # JavaScript logic for the application
-- /images             # Image assets 
+- /assets             # Image assets 
 - /crypto             # Folder for cryptographic algorithm modules
   - aes.js            # Example: AES encryption module
   - rsa.js            # Example: RSA encryption module
