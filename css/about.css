@@ -1,0 +1,50 @@
+:root{
+    --fontPrime: "Major Mono Display", monospace;
+}
+
+
+body {
+    background-image: url(../assets/Back.png);
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: var(--fontPrime);
+    color: #333;
+}
+
+p {
+    font-size: 30px;
+    color: #666;
+    margin: 20px 0;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.about-section {
+    
+    height: 50%;
+    width: 50%;
+    
+    
+    
+    color: black;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 100px 200px 100px 350px;
+    text-align: center;
+    font-size: 30px;
+}
