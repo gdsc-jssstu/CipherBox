@@ -175,3 +175,69 @@ form {
         justify-self: center;
     }
 }
+
+/* Navbar */
+
+header {
+    color: #027b0e;
+    text-align: center;
+    padding: 20px 0;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav li {
+    margin-right: 20px;
+}
+a{
+    color: #027b0e;
+}
+
+.container {
+    max-width: 960px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+
+/* Responsive Styles */
+
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+    }
+
+    nav ul {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    nav li {
+        margin: 10px 0;
+    }
+}
+
+/* About Page Style */
+main h1{
+    color: #027b0e;
+    font-family: var(--fontPrime);
+    font-size: var(--l);
+}
+
+main p{
+    color: white;
+    font-family: var(--fontRegular);
+    font-size: var(--xl);
+}
+
