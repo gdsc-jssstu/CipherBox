@@ -55,6 +55,8 @@ header {
     font-family: var(--fontPrime);
     background-color: var(--grey);
     padding: 2%;
+    display: flex;
+    justify-content: space-between;
 }
 
 main section {
